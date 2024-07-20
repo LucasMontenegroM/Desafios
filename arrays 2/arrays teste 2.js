@@ -10,7 +10,7 @@ const ListaNomes = [{nome: "Joao Paulo", idade:22},
                     {nome: "Leonardo", idade: 22},
                     {nome: "Bruna", idade: 24},
                     {nome: "Breno", idade: 22}];
-let nomes =[]
+let nomes = []
 let media = 0
 let existe = false;
     // for loop para percorrer o array ListaNomes
